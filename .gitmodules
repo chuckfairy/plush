@@ -1,0 +1,6 @@
+[submodule "cpprestsdk"]
+	path = cpprestsdk
+	url = https://github.com/Microsoft/cpprestsdk.git
+[submodule "mysql-connector-cpp"]
+	path = mysql-connector-cpp
+	url = https://github.com/mysql/mysql-connector-cpp.git

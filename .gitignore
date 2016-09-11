@@ -1,0 +1,13 @@
+*.sw[po]
+.idea
+tags
+CMakeFiles
+*.cmake
+Makefile
+CMakeCache.txt
+install_manifest.txt
+CMakeCache.txt
+CTestTestfile.cmake
+CMakeScripts
+cpprestsdk
+mysql-connector-cpp
